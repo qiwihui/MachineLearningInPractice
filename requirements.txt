@@ -2,7 +2,7 @@ Flask==1.0.3
 ipython==7.3.0
 joblib==0.13.2
 jupyter==1.0.0
-jupyterhub==1.0.0
+jupyterhub==1.5.0
 Keras==2.2.4
 matplotlib==3.0.2
 numpy==1.15.4
